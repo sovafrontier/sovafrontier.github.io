@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TMObsrvtnData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TMObsrvtnData.xsd">
+  <Header>
+    <Office officeCode="21556">黒部河川事務所</Office>
+    <ObsrvtnTime>2020-01-23T11:00:00</ObsrvtnTime>
+  </Header>
+  <Body>
+    <ItemKind itemKindCode="3" itemKindName="積雪">
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2155600300002" obsrvtnPointName="宇奈月ダム">
+        <ItemData itemCode="10" itemName="積雪深" itemType="NumData" unitName="m">0.00</ItemData>
+        <ItemData itemCode="20" itemName="時間積雪深" itemType="NumData" unitName="m">0.00</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2155600300003" obsrvtnPointName="欅平">
+        <ItemData itemCode="10" itemName="積雪深" itemType="NumData" unitName="m">0.08</ItemData>
+        <ItemData itemCode="20" itemName="時間積雪深" itemType="NumData" unitName="m">-0.01</ItemData>
+      </ObsrvtnPointContainer>
+    </ItemKind>
+  </Body>
+</TMObsrvtnData>
