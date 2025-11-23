@@ -13,7 +13,7 @@
 ]]></rights>
   <entry>
     <title>気象特別警報・警報・注意報</title>
-    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251102042035_0_VXKO54_013000.xml"/>
+    <id>https://sovafrontier.github.io/aws/jma/20251102042035_0_VXKO54_013000.xml</id>
     <updated>2025-11-23T11:21:12Z</updated>
     <author>
       <name>秋田地方気象台</name>
@@ -23,7 +23,7 @@
   </entry>
   <entry>
     <title>気象特別警報・警報・注意報</title>
-    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251102063129_0_VXKO52_013000.xml"/>
+    <id>https://sovafrontier.github.io/aws/jma/20251102063129_0_VXKO52_013000.xml</id>
     <updated>2025-11-23T11:21:12Z</updated>
     <author>
       <name>秋田地方気象台</name>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>気象特別警報・警報・注意報</title>
-    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251111090823_0_VPOA50_471000.xml"/>
+    <id>https://sovafrontier.github.io/aws/jma/20251111090823_0_VPOA50_471000.xml</id>
     <updated>2025-11-23T11:21:12Z</updated>
     <author>
       <name>秋田地方気象台</name>
@@ -43,7 +43,7 @@
   </entry>
   <entry>
     <title>気象特別警報・警報・注意報</title>
-    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251111091816_0_VPOA50_471000.xml"/>
+    <id>https://sovafrontier.github.io/aws/jma/20251111091816_0_VPOA50_471000.xml</id>
     <updated>2025-11-23T11:21:12Z</updated>
     <author>
       <name>秋田地方気象台</name>
@@ -53,7 +53,7 @@
   </entry>
   <entry>
     <title>気象特別警報・警報・注意報</title>
-    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251112190004_0_VXWW50_460100.xml"/>
+    <id>https://sovafrontier.github.io/aws/jma/20251112190004_0_VXWW50_460100.xml</id>
     <updated>2025-11-23T11:21:12Z</updated>
     <author>
       <name>秋田地方気象台</name>
@@ -63,7 +63,7 @@
   </entry>
   <entry>
     <title>気象特別警報・警報・注意報</title>
-    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251112194035_0_VPTI50_010000.xml"/>
+    <id>https://sovafrontier.github.io/aws/jma/20251112194035_0_VPTI50_010000.xml</id>
     <updated>2025-11-23T11:21:12Z</updated>
     <author>
       <name>秋田地方気象台</name>
@@ -73,7 +73,7 @@
   </entry>
   <entry>
     <title>気象特別警報・警報・注意報</title>
-    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251112233019_0_VXWW50_460100.xml"/>
+    <id>https://sovafrontier.github.io/aws/jma/20251112233019_0_VXWW50_460100.xml</id>
     <updated>2025-11-23T11:21:12Z</updated>
     <author>
       <name>秋田地方気象台</name>
@@ -83,7 +83,7 @@
   </entry>
   <entry>
     <title>気象特別警報・警報・注意報</title>
-    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251113014723_0_VPTI50_010000.xml"/>
+    <id>https://sovafrontier.github.io/aws/jma/20251113014723_0_VPTI50_010000.xml</id>
     <updated>2025-11-23T11:21:12Z</updated>
     <author>
       <name>秋田地方気象台</name>
