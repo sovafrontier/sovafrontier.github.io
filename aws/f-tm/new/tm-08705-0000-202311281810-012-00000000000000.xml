@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TMObsrvtnData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TMObsrvtnData.xsd">
+  <Header>
+    <Office officeCode="8705">広島県</Office>
+    <ObsrvtnTime>2023-11-28T18:10:00</ObsrvtnTime>
+  </Header>
+  <Body>
+    <ItemKind itemKindCode="12" itemKindName="海象">
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200001" obsrvtnPointName="呉阿賀港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.86</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200002" obsrvtnPointName="柿浦漁港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.76</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200003" obsrvtnPointName="竹原港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.53</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200004" obsrvtnPointName="倉橋漁港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.88</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200005" obsrvtnPointName="大竹港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.91</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200006" obsrvtnPointName="福山港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.26</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200007" obsrvtnPointName="土生港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.28</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200008" obsrvtnPointName="御手洗港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.66</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200009" obsrvtnPointName="糸崎港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.38</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200010" obsrvtnPointName="尾道港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.35</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200011" obsrvtnPointName="木江港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.62</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200012" obsrvtnPointName="横田港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.25</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0870501200013" obsrvtnPointName="広島港">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">1.96</ItemData>
+      </ObsrvtnPointContainer>
+    </ItemKind>
+  </Body>
+</TMObsrvtnData>
