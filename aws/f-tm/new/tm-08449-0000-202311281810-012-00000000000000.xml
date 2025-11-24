@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TMObsrvtnData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TMObsrvtnData.xsd">
+  <Header>
+    <Office officeCode="8449">岡山県</Office>
+    <ObsrvtnTime>2023-11-28T18:10:00</ObsrvtnTime>
+  </Header>
+  <Body>
+    <ItemKind itemKindCode="12" itemKindName="海象">
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0844901200001" obsrvtnPointName="牛窓">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">0.09</ItemData>
+        <ItemData itemCode="80" itemName="平均風速" itemType="NumData" unitName="m/s">0.0</ItemData>
+        <ItemData itemCode="90" itemName="平均風向" itemType="NumData" unitName="16方位">0</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0844901200002" obsrvtnPointName="高島">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">0.15</ItemData>
+        <ItemData itemCode="80" itemName="平均風速" itemType="NumData" unitName="m/s">0.0</ItemData>
+        <ItemData itemCode="90" itemName="平均風向" itemType="NumData" unitName="16方位">0</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0844901200005" obsrvtnPointName="玉野">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">-0.14</ItemData>
+        <ItemData itemCode="80" itemName="平均風速" itemType="NumData" unitName="m/s">0.0</ItemData>
+        <ItemData itemCode="90" itemName="平均風向" itemType="NumData" unitName="16方位">0</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0844901200006" obsrvtnPointName="水島">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">-0.28</ItemData>
+        <ItemData itemCode="80" itemName="平均風速" itemType="NumData" unitName="m/s">0.6</ItemData>
+        <ItemData itemCode="90" itemName="平均風向" itemType="NumData" unitName="16方位">0</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0844901200007" obsrvtnPointName="玉島">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">-0.46</ItemData>
+        <ItemData itemCode="80" itemName="平均風速" itemType="NumData" unitName="m/s">8.5</ItemData>
+        <ItemData itemCode="90" itemName="平均風向" itemType="NumData" unitName="16方位">7</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0844901200008" obsrvtnPointName="笠岡">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm" contentsCode="190" contentsName="欠測"></ItemData>
+        <ItemData itemCode="80" itemName="平均風速" itemType="NumData" unitName="m/s" contentsCode="190" contentsName="欠測"></ItemData>
+        <ItemData itemCode="90" itemName="平均風向" itemType="NumData" unitName="16方位" contentsCode="190" contentsName="欠測"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0844901200009" obsrvtnPointName="日生">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">0.28</ItemData>
+        <ItemData itemCode="80" itemName="平均風速" itemType="NumData" unitName="m/s">0.0</ItemData>
+        <ItemData itemCode="90" itemName="平均風向" itemType="NumData" unitName="16方位">10</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0844901200010" obsrvtnPointName="児島">
+        <ItemData itemCode="70" itemName="実測潮位" itemType="NumData" unitName="TPm">-0.33</ItemData>
+        <ItemData itemCode="80" itemName="平均風速" itemType="NumData" unitName="m/s">0.1</ItemData>
+        <ItemData itemCode="90" itemName="平均風向" itemType="NumData" unitName="16方位">13</ItemData>
+      </ObsrvtnPointContainer>
+    </ItemKind>
+  </Body>
+</TMObsrvtnData>

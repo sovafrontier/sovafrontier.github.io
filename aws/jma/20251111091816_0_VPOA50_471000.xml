@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/">
+<Control>
+<Title>記録的短時間大雨情報</Title>
+<DateTime>2025-11-11T09:18:15Z</DateTime>
+<Status>通常</Status>
+<EditorialOffice>沖縄気象台</EditorialOffice>
+<PublishingOffice>気象庁</PublishingOffice>
+</Control>
+<Head xmlns="http://xml.kishou.go.jp/jmaxml1/informationBasis1/">
+<Title>沖縄本島地方記録的短時間大雨情報</Title>
+<ReportDateTime>2025-11-11T18:18:00+09:00</ReportDateTime>
+<TargetDateTime>2025-11-11T18:18:00+09:00</TargetDateTime>
+<EventID>JPOK202511111749_202511111818</EventID>
+<InfoType>発表</InfoType>
+<Serial>3</Serial>
+<InfoKind>記録的短時間大雨情報</InfoKind>
+<InfoKindVersion>1.0_0</InfoKindVersion>
+<Headline>
+<Text>
+１８時沖縄県で記録的短時間大雨
+国頭村西部付近で約１１０ミリ</Text>
+<Information type="記録的短時間大雨情報（発表細分）">
+<Item>
+<Kind>
+<Name>記録的短時間大雨情報</Name>
+<Code>1</Code>
+<Condition>発表</Condition>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>沖縄本島地方</Name>
+<Code>471000</Code>
+</Area>
+</Areas>
+</Item>
+</Information>
+</Headline>
+</Head>
+<Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/meteorology1/">
+<Warning type="記録的短時間大雨情報（発表細分）">
+<Item>
+<Kind>
+<Name>記録的短時間大雨情報</Name>
+<Code>1</Code>
+<Status>発表</Status>
+</Kind>
+<Area>
+<Name>沖縄本島地方</Name>
+<Code>471000</Code>
+</Area>
+</Item>
+</Warning>
+</Body>
+</Report>

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TMObsrvtnData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TMObsrvtnData.xsd">
+  <Header>
+    <Office officeCode="20757">札幌開発建設部</Office>
+    <ObsrvtnTime>2020-01-23T11:20:00</ObsrvtnTime>
+  </Header>
+  <Body>
+    <ItemKind itemKindCode="4" itemKindName="水位">
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400001" obsrvtnPointName="納内">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">54.29</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">64.26</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">57.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">58.9</warn_stage>
+        <spcl_warn_stage name="避難判断水位">59.2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">60.1</dng_stage>
+        <dsgn_high_stage name="計画高水位">61.75</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400002" obsrvtnPointName="深川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">44.77</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.01</ItemData>
+        <gnl_warn_stage name="水防団待機水位">48.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">49.3</warn_stage>
+        <dsgn_high_stage name="計画高水位">49.81</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400003" obsrvtnPointName="妹背牛橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">37.9</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">39</warn_stage>
+        <dsgn_high_stage name="計画高水位">40.89</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400004" obsrvtnPointName="幌加内">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">156.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">156.4</warn_stage>
+        <spcl_warn_stage name="避難判断水位">156.6</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">156.9</dng_stage>
+        <dsgn_high_stage name="計画高水位">158.19</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400005" obsrvtnPointName="多度志">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">56.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">57</warn_stage>
+        <spcl_warn_stage name="避難判断水位">57.5</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">57.7</dng_stage>
+        <dsgn_high_stage name="計画高水位">59.02</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400006" obsrvtnPointName="北竜橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">31.49</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">36.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">38.1</warn_stage>
+        <dsgn_high_stage name="計画高水位">40.45</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400007" obsrvtnPointName="大鳳橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">35.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">36.1</warn_stage>
+        <dsgn_high_stage name="計画高水位">36.71</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400008" obsrvtnPointName="雨竜橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">32.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">33.4</warn_stage>
+        <spcl_warn_stage name="避難判断水位">33.7</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">34.2</dng_stage>
+        <dsgn_high_stage name="計画高水位">37.26</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400009" obsrvtnPointName="伏古">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">24.94</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">55.91</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">29.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">30.8</warn_stage>
+        <dsgn_high_stage name="計画高水位">34.32</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400010" obsrvtnPointName="橋本町">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">18.68</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">67.88</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.01</ItemData>
+        <gnl_warn_stage name="水防団待機水位">23.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">24.6</warn_stage>
+        <spcl_warn_stage name="避難判断水位">26.5</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">27</dng_stage>
+        <dsgn_high_stage name="計画高水位">28.15</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400011" obsrvtnPointName="幾寅">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">354.61</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">83.22</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.01</ItemData>
+        <gnl_warn_stage name="水防団待機水位">355.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">355.8</warn_stage>
+        <spcl_warn_stage name="避難判断水位">356.2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">356.7</dng_stage>
+        <dsgn_high_stage name="計画高水位">357.81</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400013" obsrvtnPointName="赤平">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">40.91</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">26.49</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">43.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">44.9</warn_stage>
+        <spcl_warn_stage name="避難判断水位">47.7</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">48.3</dng_stage>
+        <dsgn_high_stage name="計画高水位">50.09</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400014" obsrvtnPointName="空知大橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">20.20</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">22.41</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">-0.01</ItemData>
+        <gnl_warn_stage name="水防団待機水位">24.9</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">26.5</warn_stage>
+        <dsgn_high_stage name="計画高水位">28.99</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400015" obsrvtnPointName="砂川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">12.96</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">18.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">20.3</warn_stage>
+        <dsgn_high_stage name="計画高水位">24.7</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400016" obsrvtnPointName="奈井江大橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">14</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">15.8</warn_stage>
+        <spcl_warn_stage name="避難判断水位">19.7</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">20</dng_stage>
+        <dsgn_high_stage name="計画高水位">20.74</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400017" obsrvtnPointName="中奈井江">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">12.83</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <dsgn_high_stage name="計画高水位">20.01</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400018" obsrvtnPointName="美唄">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">12.53</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <dsgn_high_stage name="計画高水位">18.67</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400019" obsrvtnPointName="産化美唄">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">8.40</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">11.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">13.4</warn_stage>
+        <spcl_warn_stage name="避難判断水位">17.1</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">17.3</dng_stage>
+        <dsgn_high_stage name="計画高水位">17.39</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400020" obsrvtnPointName="月形">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">4.63</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">432.84</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.01</ItemData>
+        <gnl_warn_stage name="水防団待機水位">10.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">12.3</warn_stage>
+        <spcl_warn_stage name="避難判断水位">15.3</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">15.6</dng_stage>
+        <dsgn_high_stage name="計画高水位">15.98</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400021" obsrvtnPointName="大豊橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">3.38</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">0.60</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">9.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">10.4</warn_stage>
+        <spcl_warn_stage name="避難判断水位">11.4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">12</dng_stage>
+        <dsgn_high_stage name="計画高水位">12.03</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400022" obsrvtnPointName="岩見沢大橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.67</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">322.95</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">7.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">9.4</warn_stage>
+        <dsgn_high_stage name="計画高水位">12.77</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400023" obsrvtnPointName="奥桂">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400024" obsrvtnPointName="藤松">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">44.47</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">16.10</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">45.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">45.8</warn_stage>
+        <spcl_warn_stage name="避難判断水位">46</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">46.7</dng_stage>
+        <dsgn_high_stage name="計画高水位">50.27</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400025" obsrvtnPointName="市来知">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">28.55</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">1.38</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">-0.01</ItemData>
+        <gnl_warn_stage name="水防団待機水位">30.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">31.5</warn_stage>
+        <dsgn_high_stage name="計画高水位">35.03</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400026" obsrvtnPointName="西川向">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">5.42</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">1.96</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">10</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">10.6</warn_stage>
+        <spcl_warn_stage name="避難判断水位">13.3</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">14.2</dng_stage>
+        <dsgn_high_stage name="計画高水位">14.86</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400027" obsrvtnPointName="円山">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">51.62</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">11.22</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">53.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">54.1</warn_stage>
+        <spcl_warn_stage name="避難判断水位">54.7</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">55.2</dng_stage>
+        <dsgn_high_stage name="計画高水位">57.89</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400029" obsrvtnPointName="清幌橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">6.97</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">10.90</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">11.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">12.6</warn_stage>
+        <spcl_warn_stage name="避難判断水位">12.7</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">13.1</dng_stage>
+        <dsgn_high_stage name="計画高水位">14.78</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400030" obsrvtnPointName="豊幌">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.29</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">6.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">7.8</warn_stage>
+        <spcl_warn_stage name="避難判断水位">9.4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">9.7</dng_stage>
+        <dsgn_high_stage name="計画高水位">9.78</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400031" obsrvtnPointName="西越">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">5.19</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">16.24</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">7.9</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">8.2</warn_stage>
+        <spcl_warn_stage name="避難判断水位">8.4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">8.7</dng_stage>
+        <dsgn_high_stage name="計画高水位">9.73</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400032" obsrvtnPointName="嶮淵">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">7.14</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">0.55</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">8.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">9.2</warn_stage>
+        <spcl_warn_stage name="避難判断水位">9.7</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">10.2</dng_stage>
+        <dsgn_high_stage name="計画高水位">10.25</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400033" obsrvtnPointName="舞鶴">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">2.54</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">19.79</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">6.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">7.1</warn_stage>
+        <dsgn_high_stage name="計画高水位">9.58</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400034" obsrvtnPointName="光竜">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400035" obsrvtnPointName="白扇">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400037" obsrvtnPointName="日の出橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">27.74</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">2.50</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">29.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">29.6</warn_stage>
+        <spcl_warn_stage name="避難判断水位">30.2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">30.7</dng_stage>
+        <dsgn_high_stage name="計画高水位">32.37</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400038" obsrvtnPointName="裏の沢">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.76</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">22.35</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">5.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">6.4</warn_stage>
+        <spcl_warn_stage name="避難判断水位">7.3</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">7.8</dng_stage>
+        <dsgn_high_stage name="計画高水位">9.27</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400039" obsrvtnPointName="東光">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.08</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">-0.01</ItemData>
+        <gnl_warn_stage name="水防団待機水位">4.9</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">5.7</warn_stage>
+        <dsgn_high_stage name="計画高水位">9.08</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400040" obsrvtnPointName="石狩大橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.07</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">229.28</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">4.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">5.1</warn_stage>
+        <spcl_warn_stage name="避難判断水位">7.8</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">8.1</dng_stage>
+        <dsgn_high_stage name="計画高水位">8.62</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400041" obsrvtnPointName="本流上流">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">476.78</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">2.37</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400042" obsrvtnPointName="漁入沢">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">511.87</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">2.13</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400044" obsrvtnPointName="滝の沢">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="160" contentsName="未収集"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400045" obsrvtnPointName="小樽内">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="160" contentsName="未収集"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400046" obsrvtnPointName="一の沢">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="160" contentsName="未収集"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400047" obsrvtnPointName="白川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400049" obsrvtnPointName="オカバルシ">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400051" obsrvtnPointName="南の沢">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400052" obsrvtnPointName="石山">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">107.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">108.3</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400053" obsrvtnPointName="藻岩">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">38.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">40.1</warn_stage>
+        <spcl_warn_stage name="避難判断水位">41.1</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">41.4</dng_stage>
+        <dsgn_high_stage name="計画高水位">41.59</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400054" obsrvtnPointName="雁来">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">5.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">7.4</warn_stage>
+        <spcl_warn_stage name="避難判断水位">7.5</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">8.7</dng_stage>
+        <dsgn_high_stage name="計画高水位">11.74</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400055" obsrvtnPointName="月寒">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">7.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">7.8</warn_stage>
+        <dsgn_high_stage name="計画高水位">9.91</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400056" obsrvtnPointName="厚別">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.31</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">2.96</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.9</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.8</warn_stage>
+        <spcl_warn_stage name="避難判断水位">6.5</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">6.9</dng_stage>
+        <dsgn_high_stage name="計画高水位">6.92</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400058" obsrvtnPointName="篠路">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.01</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">235.53</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.9</warn_stage>
+        <spcl_warn_stage name="避難判断水位">4.6</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">4.9</dng_stage>
+        <dsgn_high_stage name="計画高水位">6.21</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400059" obsrvtnPointName="茨戸">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.01</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">0.9</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.2</warn_stage>
+        <dsgn_high_stage name="計画高水位">1.72</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400060" obsrvtnPointName="石狩河口">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">0.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1</warn_stage>
+        <dsgn_high_stage name="計画高水位">2.82</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400061" obsrvtnPointName="学田">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400062" obsrvtnPointName="創成">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.01</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.5</warn_stage>
+        <dsgn_high_stage name="計画高水位">2.08</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400063" obsrvtnPointName="発寒上流">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.05</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400064" obsrvtnPointName="発寒">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.02</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400065" obsrvtnPointName="伏籠下流">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.00</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.9</warn_stage>
+        <dsgn_high_stage name="計画高水位">2.43</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400066" obsrvtnPointName="創成上流">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.57</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <dsgn_high_stage name="計画高水位">3.71</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400073" obsrvtnPointName="福移橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.02</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <dsgn_high_stage name="計画高水位">2.11</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400074" obsrvtnPointName="モエレ">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.50</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <dsgn_high_stage name="計画高水位">3.9</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400085" obsrvtnPointName="輪厚">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">7.12</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">0.16</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">8.45</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">8.86</warn_stage>
+        <spcl_warn_stage name="避難判断水位">9.61</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">10.04</dng_stage>
+        <dsgn_high_stage name="計画高水位">10.34</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400091" obsrvtnPointName="南6号樋門">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.60</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">6.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">6.9</warn_stage>
+        <dsgn_high_stage name="計画高水位">9.46</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400092" obsrvtnPointName="下島松">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">8.49</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">0.89</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">9.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">10.3</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400093" obsrvtnPointName="支笏湖">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">248.19</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">-0.01</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400094" obsrvtnPointName="定山渓市街">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="160" contentsName="未収集"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">271.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">271.6</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400095" obsrvtnPointName="望月寒">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <dsgn_high_stage name="計画高水位">8.56</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400096" obsrvtnPointName="当別川下">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.27</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">6.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">6.3</warn_stage>
+        <spcl_warn_stage name="避難判断水位">7.2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">7.4</dng_stage>
+        <dsgn_high_stage name="計画高水位">7.64</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400097" obsrvtnPointName="由仁">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">21.83</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">24.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">24.8</warn_stage>
+        <dsgn_high_stage name="計画高水位">27.11</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400098" obsrvtnPointName="下北の沢">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400099" obsrvtnPointName="真駒内常磐">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400100" obsrvtnPointName="中の沢">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400101" obsrvtnPointName="簾舞">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400102" obsrvtnPointName="盤の沢川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400103" obsrvtnPointName="下南の沢">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400105" obsrvtnPointName="下オカバルシ">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400107" obsrvtnPointName="達布橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">38.85</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">43.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">43.9</warn_stage>
+        <dsgn_high_stage name="計画高水位">46.31</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400109" obsrvtnPointName="石狩">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.2</warn_stage>
+        <dsgn_high_stage name="計画高水位">3.44</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400110" obsrvtnPointName="ふ化場">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">30.20</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">30.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">30.7</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400111" obsrvtnPointName="第1旧美唄橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.42</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="160" contentsName="未収集"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">9.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">9.8</warn_stage>
+        <dsgn_high_stage name="計画高水位">11.89</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400120" obsrvtnPointName="布部">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">181.33</ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s">5.33</ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m">-0.01</ItemData>
+        <gnl_warn_stage name="水防団待機水位">183.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">184</warn_stage>
+        <spcl_warn_stage name="避難判断水位">184.4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">184.8</dng_stage>
+        <dsgn_high_stage name="計画高水位">188.01</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400121" obsrvtnPointName="遊水地第１水位">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <dsgn_high_stage name="計画高水位">24.15</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400122" obsrvtnPointName="遊水地第２水位">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <dsgn_high_stage name="計画高水位">24.15</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400124" obsrvtnPointName="石狩川上流水位">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <dsgn_high_stage name="計画高水位">23.75</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400125" obsrvtnPointName="石狩川下流水位">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <dsgn_high_stage name="計画高水位">23.42</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400126" obsrvtnPointName="ペンケ樋門上流水位">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <dsgn_high_stage name="計画高水位">24.15</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="2075700400128" obsrvtnPointName="パンケ水門上流水位">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="20" itemName="河川流量" itemType="NumData" unitName="m3/s" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <ItemData itemCode="50" itemName="１０分水位変化量" itemType="NumData" unitName="m" contentsCode="140" contentsName="閉局（休止中）"></ItemData>
+        <dsgn_high_stage name="計画高水位">24.15</dsgn_high_stage>
+      </ObsrvtnPointContainer>
+    </ItemKind>
+  </Body>
+</TMObsrvtnData>

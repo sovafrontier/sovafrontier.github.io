@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="ja">
+  <title>高頻度（随時）</title>
+  <subtitle>JMAXML publishing feed</subtitle>
+  <updated>2025-11-23T20:21:26+09:00</updated>
+  <id>https://www.data.jma.go.jp/developer/xml/feed/extra.xml#short_1763896886</id>
+  <link rel="related" href="https://www.jma.go.jp/"/>
+  <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/extra.xml"/>
+  <link rel="hub" href="http://alert-hub.appspot.com/"/>
+  <rights type="html"><![CDATA[
+<a href="https://www.jma.go.jp/jma/kishou/info/coment.html">利用規約</a>,
+<a href="https://www.jma.go.jp/jma/en/copyright.html">Terms of Use</a>
+]]></rights>
+  <entry>
+    <title>気象特別警報・警報・注意報</title>
+    <id>https://sovafrontier.github.io/aws/jma/20251110034347_0_VPTW61_010000.xml</id>
+    <updated>2025-11-23T11:21:12Z</updated>
+    <author>
+      <name>秋田地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251110034347_0_VPTW61_010000.xml"/>
+    <content type="text">【秋田県気象警報・注意報】秋田県では、２３日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に、２４日昼前まで濃霧による視程障害に注意してください。</content>
+  </entry>
+  <entry>
+    <title>気象特別警報・警報・注意報</title>
+    <id>https://sovafrontier.github.io/aws/jma/20251110065108_0_VPTW61_010000.xml</id>
+    <updated>2025-11-23T11:21:12Z</updated>
+    <author>
+      <name>秋田地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251110065108_0_VPTW61_010000.xml"/>
+    <content type="text">【秋田県気象警報・注意報】秋田県では、２３日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に、２４日昼前まで濃霧による視程障害に注意してください。</content>
+  </entry>
+  <entry>
+    <title>気象特別警報・警報・注意報</title>
+    <id>https://sovafrontier.github.io/aws/jma/20251102042035_0_VXKO54_013000.xml</id>
+    <updated>2025-11-23T11:21:12Z</updated>
+    <author>
+      <name>秋田地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251102042035_0_VXKO54_013000.xml"/>
+    <content type="text">【秋田県気象警報・注意報】秋田県では、２３日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に、２４日昼前まで濃霧による視程障害に注意してください。</content>
+  </entry>
+  <entry>
+    <title>気象特別警報・警報・注意報</title>
+    <id>https://sovafrontier.github.io/aws/jma/20251102063129_0_VXKO52_013000.xml</id>
+    <updated>2025-11-23T11:21:12Z</updated>
+    <author>
+      <name>秋田地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251102063129_0_VXKO52_013000.xml"/>
+    <content type="text">【秋田県気象警報・注意報】秋田県では、２３日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に、２４日昼前まで濃霧による視程障害に注意してください。</content>
+  </entry>
+  <entry>
+    <title>気象特別警報・警報・注意報</title>
+    <id>https://sovafrontier.github.io/aws/jma/20251111090823_0_VPOA50_471000.xml</id>
+    <updated>2025-11-23T11:21:12Z</updated>
+    <author>
+      <name>秋田地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251111090823_0_VPOA50_471000.xml"/>
+    <content type="text">【秋田県気象警報・注意報】秋田県では、２３日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に、２４日昼前まで濃霧による視程障害に注意してください。</content>
+  </entry>
+  <entry>
+    <title>気象特別警報・警報・注意報</title>
+    <id>https://sovafrontier.github.io/aws/jma/20251111091816_0_VPOA50_471000.xml</id>
+    <updated>2025-11-23T11:21:12Z</updated>
+    <author>
+      <name>秋田地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251111091816_0_VPOA50_471000.xml"/>
+    <content type="text">【秋田県気象警報・注意報】秋田県では、２３日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に、２４日昼前まで濃霧による視程障害に注意してください。</content>
+  </entry>
+  <entry>
+    <title>気象特別警報・警報・注意報</title>
+    <id>https://sovafrontier.github.io/aws/jma/20251112190004_0_VXWW50_460100.xml</id>
+    <updated>2025-11-23T11:21:12Z</updated>
+    <author>
+      <name>秋田地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251112190004_0_VXWW50_460100.xml"/>
+    <content type="text">【秋田県気象警報・注意報】秋田県では、２３日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に、２４日昼前まで濃霧による視程障害に注意してください。</content>
+  </entry>
+  <entry>
+    <title>気象特別警報・警報・注意報</title>
+    <id>https://sovafrontier.github.io/aws/jma/20251112194035_0_VPTI50_010000.xml</id>
+    <updated>2025-11-23T11:21:12Z</updated>
+    <author>
+      <name>秋田地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251112194035_0_VPTI50_010000.xml"/>
+    <content type="text">【秋田県気象警報・注意報】秋田県では、２３日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に、２４日昼前まで濃霧による視程障害に注意してください。</content>
+  </entry>
+  <entry>
+    <title>気象特別警報・警報・注意報</title>
+    <id>https://sovafrontier.github.io/aws/jma/20251112233019_0_VXWW50_460100.xml</id>
+    <updated>2025-11-23T11:21:12Z</updated>
+    <author>
+      <name>秋田地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251112233019_0_VXWW50_460100.xml"/>
+    <content type="text">【秋田県気象警報・注意報】秋田県では、２３日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に、２４日昼前まで濃霧による視程障害に注意してください。</content>
+  </entry>
+  <entry>
+    <title>気象特別警報・警報・注意報</title>
+    <id>https://sovafrontier.github.io/aws/jma/20251113014723_0_VPTI50_010000.xml</id>
+    <updated>2025-11-23T11:21:12Z</updated>
+    <author>
+      <name>秋田地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://sovafrontier.github.io/aws/jma/20251113014723_0_VPTI50_010000.xml"/>
+    <content type="text">【秋田県気象警報・注意報】秋田県では、２３日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に、２４日昼前まで濃霧による視程障害に注意してください。</content>
+  </entry>
+</feed>

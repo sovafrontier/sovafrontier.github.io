@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TMObsrvtnData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TMObsrvtnData.xsd">
+  <Header>
+    <Office officeCode="5633">静岡県</Office>
+    <ObsrvtnTime>2025-05-23T17:20:00</ObsrvtnTime>
+  </Header>
+  <Body>
+    <ItemKind itemKindCode="4" itemKindName="水位">
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400001" obsrvtnPointName="本郷橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.51</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3</warn_stage>
+        <dng_stage name="はん濫危険水位">3.9</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400002" obsrvtnPointName="峰大橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.02</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.1</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.3</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400003" obsrvtnPointName="伏倉橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.13</ItemData>
+        <gnl_warn_stage name="水防団待機水位">0.7</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.7</warn_stage>
+        <spcl_warn_stage name="避難判断水位">1.8</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">1.9</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400004" obsrvtnPointName="前原橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.69</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.8</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.6</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.1</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400005" obsrvtnPointName="築地橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.23</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.7</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.1</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.9</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400006" obsrvtnPointName="深根橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.24</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.6</warn_stage>
+        <dng_stage name="はん濫危険水位">4.3</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400007" obsrvtnPointName="宇久須">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.15</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400008" obsrvtnPointName="奥野ダム">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">138.12</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400009" obsrvtnPointName="白川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">2.77</ItemData>
+        <gnl_warn_stage name="水防団待機水位">6.72</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">6.75</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400010" obsrvtnPointName="大川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">6.06</ItemData>
+        <gnl_warn_stage name="水防団待機水位">7.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">7.7</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400011" obsrvtnPointName="岡橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">2.79</ItemData>
+        <gnl_warn_stage name="水防団待機水位">5.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">5.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">5.8</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">6.1</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400012" obsrvtnPointName="小山">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.9</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.09</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.28</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400013" obsrvtnPointName="嵯峨沢橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.22</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.9</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400014" obsrvtnPointName="梅木橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.85</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.7</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.1</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.4</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400016" obsrvtnPointName="下神川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.47</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+        <dng_stage name="はん濫危険水位">4</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400017" obsrvtnPointName="花園橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.21</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.8</warn_stage>
+        <dng_stage name="はん濫危険水位">3.1</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400018" obsrvtnPointName="今沢橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.21</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400019" obsrvtnPointName="丸子橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.32</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.8</warn_stage>
+        <spcl_warn_stage name="避難判断水位">1.8</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.73</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400020" obsrvtnPointName="青木橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.64</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.2</warn_stage>
+        <dng_stage name="はん濫危険水位">3.4</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400021" obsrvtnPointName="千福">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.23</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.75</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">4.2</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400022" obsrvtnPointName="松の木橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.09</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">4.4</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400023" obsrvtnPointName="潤井川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.15</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.3</warn_stage>
+        <dng_stage name="はん濫危険水位">3.8</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400024" obsrvtnPointName="河合橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.49</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+        <dng_stage name="はん濫危険水位">2.98</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400025" obsrvtnPointName="山本橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.28</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.8</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400026" obsrvtnPointName="淀師">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.05</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.7</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400027" obsrvtnPointName="上条">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.22</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400028" obsrvtnPointName="和田川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.14</ItemData>
+        <gnl_warn_stage name="水防団待機水位">0.92</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.72</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400029" obsrvtnPointName="黒田">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.83</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.7</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400030" obsrvtnPointName="和田島橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.22</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.6</warn_stage>
+        <dng_stage name="はん濫危険水位">2.9</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400031" obsrvtnPointName="横山">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.92</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400032" obsrvtnPointName="富沢橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.49</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">4</warn_stage>
+        <dng_stage name="はん濫危険水位">4.08</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400033" obsrvtnPointName="大谷">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">2.03</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">4.7</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400034" obsrvtnPointName="能島">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.55</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.56</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.16</warn_stage>
+        <dng_stage name="はん濫危険水位">3.4</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400035" obsrvtnPointName="丸子">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.01</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.4</warn_stage>
+        <dng_stage name="はん濫危険水位">2.7</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400036" obsrvtnPointName="水梨橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.08</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.2</warn_stage>
+        <dng_stage name="はん濫危険水位">2.3</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400037" obsrvtnPointName="麻機南">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">4.69</ItemData>
+        <gnl_warn_stage name="水防団待機水位">7.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">7.7</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400038" obsrvtnPointName="麻機第４">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">5.19</ItemData>
+        <gnl_warn_stage name="水防団待機水位">6.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">7.1</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400039" obsrvtnPointName="上土">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.12</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.7</warn_stage>
+        <dng_stage name="はん濫危険水位">3</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400040" obsrvtnPointName="江尻">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.54</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400041" obsrvtnPointName="興津">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.06</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.7</warn_stage>
+        <dng_stage name="はん濫危険水位">2.3</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400042" obsrvtnPointName="玉川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.49</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.7</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400043" obsrvtnPointName="駿遠橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.9</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">4.32</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400044" obsrvtnPointName="大代川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.74</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.08</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.18</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.64</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.97</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400045" obsrvtnPointName="栃山橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.45</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.79</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.06</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.24</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400046" obsrvtnPointName="中徳橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">4.4</warn_stage>
+        <spcl_warn_stage name="避難判断水位">4.8</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">5.2</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400047" obsrvtnPointName="川根大橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.69</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.7</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.3</warn_stage>
+        <spcl_warn_stage name="避難判断水位">4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">4.52</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400048" obsrvtnPointName="横内橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.18</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.8</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.4</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400049" obsrvtnPointName="八幡橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.49</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.7</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.96</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400050" obsrvtnPointName="助宗橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-1.56</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.9</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400051" obsrvtnPointName="勝草橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.04</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.25</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.6</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400052" obsrvtnPointName="入江橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.33</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.7</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400053" obsrvtnPointName="新道橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.11</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.1</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.92</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400054" obsrvtnPointName="千草橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-1.42</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.7</warn_stage>
+        <spcl_warn_stage name="避難判断水位">1.9</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400055" obsrvtnPointName="深谷橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.35</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.8</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.1</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.4</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400056" obsrvtnPointName="東中橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.97</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.7</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.2</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.5</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.1</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400057" obsrvtnPointName="雨垂橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.29</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.8</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.4</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400058" obsrvtnPointName="天方">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.15</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.9</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.8</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400059" obsrvtnPointName="新貝">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.65</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">4.3</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">4.6</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400060" obsrvtnPointName="山名">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.46</ItemData>
+        <gnl_warn_stage name="水防団待機水位">5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">5.7</warn_stage>
+        <spcl_warn_stage name="避難判断水位">6.5</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">7</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400061" obsrvtnPointName="金城橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">4</warn_stage>
+        <spcl_warn_stage name="避難判断水位">4.5</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">4.9</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400062" obsrvtnPointName="上屋敷">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.59</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.9</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.4</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400063" obsrvtnPointName="吉岡橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.02</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.7</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.2</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400064" obsrvtnPointName="笠梅橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.82</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3.9</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">4.4</warn_stage>
+        <spcl_warn_stage name="避難判断水位">5.4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">5.84</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400065" obsrvtnPointName="今之浦橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.68</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.6</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400066" obsrvtnPointName="豊浜">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.46</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.9</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400067" obsrvtnPointName="昭和水門">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.49</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400068" obsrvtnPointName="上神増">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.05</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.1</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400069" obsrvtnPointName="鮫島橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.83</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.4</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400070" obsrvtnPointName="細田">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.15</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">4.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">5.2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">6.1</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400071" obsrvtnPointName="相生橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.31</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.7</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.2</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.12</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.45</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400072" obsrvtnPointName="松間大橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.42</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3.58</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">4.58</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400073" obsrvtnPointName="平木大橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">2.05</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3.74</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">4.74</warn_stage>
+        <spcl_warn_stage name="避難判断水位">5.16</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">5.38</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400074" obsrvtnPointName="水窪大橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.93</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.77</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.05</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.83</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">4.04</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400075" obsrvtnPointName="青谷橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.10</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.41</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.91</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400076" obsrvtnPointName="双竜橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.54</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">4.71</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">4.96</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400077" obsrvtnPointName="両島橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-1.13</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.7</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.1</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400078" obsrvtnPointName="坂田橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.58</ItemData>
+        <gnl_warn_stage name="水防団待機水位">0.9</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.9</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.95</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400079" obsrvtnPointName="釣橋川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.95</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.1</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.35</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400080" obsrvtnPointName="宇布見橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400081" obsrvtnPointName="堀留">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.45</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.4</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400082" obsrvtnPointName="松江">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.82</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.15</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.4</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400083" obsrvtnPointName="芳川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.32</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.35</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.45</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.8</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400084" obsrvtnPointName="新橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.78</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.1</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400085" obsrvtnPointName="安間">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.11</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.1</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.15</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.4</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400086" obsrvtnPointName="笠子川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.81</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.1</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400087" obsrvtnPointName="都田川ダム">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="190" contentsName="欠測"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400088" obsrvtnPointName="川合淵">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="190" contentsName="欠測"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400089" obsrvtnPointName="須部">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="190" contentsName="欠測"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">4.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400090" obsrvtnPointName="落合橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="190" contentsName="欠測"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.7</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.8</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.1</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400113" obsrvtnPointName="観音橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.13</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.4</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.7</warn_stage>
+        <dng_stage name="はん濫危険水位">1.9</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400114" obsrvtnPointName="中條橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.45</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400115" obsrvtnPointName="宗光寺橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.06</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400116" obsrvtnPointName="小坂">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.00</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400117" obsrvtnPointName="修善寺川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.95</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.6</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.3</warn_stage>
+        <dng_stage name="はん濫危険水位">2.5</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400118" obsrvtnPointName="青野">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.07</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.8</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.2</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400119" obsrvtnPointName="本市場新田">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.58</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400120" obsrvtnPointName="伝法沢川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.28</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400121" obsrvtnPointName="小潤井川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.11</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.8</warn_stage>
+        <dng_stage name="はん濫危険水位">2.35</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400122" obsrvtnPointName="麻機第３">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">5.34</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400123" obsrvtnPointName="楠">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">2.90</ItemData>
+        <gnl_warn_stage name="水防団待機水位">4.73</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">5.33</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400124" obsrvtnPointName="丸子川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.13</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400125" obsrvtnPointName="平山">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.03</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400126" obsrvtnPointName="坂口谷川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.59</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.4</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.7</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.2</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400127" obsrvtnPointName="白岩橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.11</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.8</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400128" obsrvtnPointName="篭田橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.71</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.7</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400129" obsrvtnPointName="彦島大橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.75</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.3</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400130" obsrvtnPointName="上田橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.14</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.8</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400131" obsrvtnPointName="江川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.34</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.7</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400132" obsrvtnPointName="富塚">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.02</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400133" obsrvtnPointName="瀬戸橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="190" contentsName="欠測"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">5.04</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">5.54</warn_stage>
+        <spcl_warn_stage name="避難判断水位">5.75</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">6.75</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400134" obsrvtnPointName="伊目">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="190" contentsName="欠測"></ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400135" obsrvtnPointName="花川橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.31</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400136" obsrvtnPointName="伊佐見橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.40</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.7</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.9</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400137" obsrvtnPointName="鵺代">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.52</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.3</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400138" obsrvtnPointName="瀬戸">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.36</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400139" obsrvtnPointName="西鴨江">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.74</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400140" obsrvtnPointName="浜名港">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.27</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400141" obsrvtnPointName="岩科川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.52</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400142" obsrvtnPointName="中央橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.00</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400143" obsrvtnPointName="原田橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.93</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400144" obsrvtnPointName="花守橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.29</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.33</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.84</warn_stage>
+        <spcl_warn_stage name="避難判断水位">3.19</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.34</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400145" obsrvtnPointName="庵原">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.47</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3</warn_stage>
+        <dng_stage name="はん濫危険水位">3.2</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400146" obsrvtnPointName="足久保">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.27</ItemData>
+        <gnl_warn_stage name="水防団待機水位">0.78</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.22</warn_stage>
+        <dng_stage name="はん濫危険水位">1.43</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400147" obsrvtnPointName="一色">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.43</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.5</warn_stage>
+        <spcl_warn_stage name="避難判断水位">1.7</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">1.9</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400148" obsrvtnPointName="孕丹橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.14</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400149" obsrvtnPointName="市場橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">3.72</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400150" obsrvtnPointName="円田">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m" contentsCode="190" contentsName="欠測"></ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400151" obsrvtnPointName="横手橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.21</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.7</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.8</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">3.2</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400152" obsrvtnPointName="福田">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.55</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400153" obsrvtnPointName="矢矧橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.44</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400154" obsrvtnPointName="市野橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.21</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400155" obsrvtnPointName="和泉橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.00</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">1.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400156" obsrvtnPointName="中村橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.14</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400157" obsrvtnPointName="下御殿橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">1.19</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400158" obsrvtnPointName="金山橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.35</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.25</warn_stage>
+        <spcl_warn_stage name="避難判断水位">2.4</spcl_warn_stage>
+        <dng_stage name="はん濫危険水位">2.6</dng_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400159" obsrvtnPointName="田中新橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.38</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400161" obsrvtnPointName="沖之川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">-0.14</ItemData>
+        <gnl_warn_stage name="水防団待機水位">3</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">3.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400162" obsrvtnPointName="蟹田川下">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.44</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.8</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.3</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400163" obsrvtnPointName="吉川">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.52</ItemData>
+        <gnl_warn_stage name="水防団待機水位">1.5</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400164" obsrvtnPointName="中島">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.70</ItemData>
+        <gnl_warn_stage name="水防団待機水位">2</gnl_warn_stage>
+        <warn_stage name="はん濫注意水位">2.5</warn_stage>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400165" obsrvtnPointName="常盤橋">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.88</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400166" obsrvtnPointName="岩殿">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.24</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400169" obsrvtnPointName="間宮">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.23</ItemData>
+      </ObsrvtnPointContainer>
+      <ObsrvtnPointContainer obsrvtnPointFullCode="0563300400170" obsrvtnPointName="伝法沢川調整池">
+        <ItemData itemCode="10" itemName="河川水位" itemType="NumData" unitName="m">0.00</ItemData>
+      </ObsrvtnPointContainer>
+    </ItemKind>
+  </Body>
+</TMObsrvtnData>
